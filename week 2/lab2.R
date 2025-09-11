@@ -46,8 +46,13 @@ boxplot(cereal$Sugar ~ cereal$Type)
 # f. Use summary() command to find the five number summary of sugar amount. 
 #    Does the results agree with the boxplot from part d? Compute the IQR. 
 #    Again, does this agree with the boxplot from part d?
-
+summary(cereal$Sugar)
+IQR <- 12.50 - 4
+IQR
 # g. Find the mean and standard deviation of sugar content. Are the mean and median close?
+mean(cereal$Sugar) # 8.75
+median(cereal$Sugar) # 9.5
+# yes, they do agree 
 
 # h. Use the following R command to construct a histogram for the sugar amount 
 #    with appropriate titles. How many cereals have a sugar content more than 15g?
