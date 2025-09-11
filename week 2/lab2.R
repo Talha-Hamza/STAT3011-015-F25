@@ -25,7 +25,13 @@ table(cereal$Type) # 10  cereals for each A and C
 #    main="add your title here" option to add a meaningful title and ylab=" " 
 #    to add a vertical axis label. Describe the overall shape of the distribution. 
 #    How many modes are there? Are the data skewed? Are there any outliers?
-
+boxplot(cereal$Sugar, ylab = "Amount of Sugar (g)", 
+        main = "Boxplot of Cereal Sugar")
+# Are the data skewed? = NO, symmetrical
+# Are there any outliers? = No outliers
+hist(cereal$Sugar, ylab = "Amount of Sugar (g)", 
+        main = "Histogram of Cereal Sugar")
+# How many modes are there? = 2 modes
 
 # e. Use boxplot(cereal$Sugar ~ Type) to construct a side-by-side boxplot of Sugar 
 #    with respect to the Type of cereal. Compare the shape of the distributions 
