@@ -15,10 +15,11 @@ str(cereal$Cereal) # QUALITATIVE
 str(cereal$Type) # QUALITATIVE
 
 # b. Use nrow() or tail() to determine the number of observations in the cereal dataset.
-
+nrow(cereal) # 20 observations
 
 # c. Use table() to create a summary table of Type (C for children / A for Adult's cereal). 
 #    Identify the number of children cereals and adult's cereals in the data set.
+table(cereal$Type) # 10  cereals for each A and C
 
 # d. Use boxplot(cereal$Sugar) to construct a boxplot of sugar. Use the 
 #    main="add your title here" option to add a meaningful title and ylab=" " 
