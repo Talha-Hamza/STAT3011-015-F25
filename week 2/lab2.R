@@ -57,7 +57,13 @@ median(cereal$Sugar) # 9.5
 # h. Use the following R command to construct a histogram for the sugar amount 
 #    with appropriate titles. How many cereals have a sugar content more than 15g?
 #    hist(cereal$Sugar, main="add your title", xlab="add your horizontal axis label")
+hist(cereal$Sugar, ylab = "Amount of Sugar (g)", 
+     main = "Histogram of Cereal Sugar")
+# Exactly 2 cereals will have sugar content greater than 15 g 
 
 # i. Now construct a histogram of sugar content with 10 breaks. See class notes p.14. 
 #    Describe the overall shape of the distribution.
 
+hist(cereal$Sugar, ylab = "Amount of Sugar (g)", 
+     main = "Histogram of Cereal Sugar", breaks = 10)
+# Bimodal Distribution
