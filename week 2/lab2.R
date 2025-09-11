@@ -2,10 +2,17 @@
 
 # Exercise 2:
 # Read in the data (update the path as needed)
+cereal <- read.csv(file.choose(), header = TRUE)
 
 # a. Use either names() or head( ) to identify the names of all four variables 
 #    Determine if variables are quantitative or qualitative. 
+names(cereal)
+head(cereal)
+str(cereal$Sugar) # QUANTITATIVE
+str(cereal$Sodium)# QUANTITATIVE
 
+str(cereal$Cereal) # QUALITATIVE
+str(cereal$Type) # QUALITATIVE
 
 # b. Use nrow() or tail() to determine the number of observations in the cereal dataset.
 
