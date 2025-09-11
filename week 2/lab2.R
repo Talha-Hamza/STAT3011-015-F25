@@ -39,6 +39,9 @@ hist(cereal$Sugar, ylab = "Amount of Sugar (g)",
 #    conclude from observing your graphic about the amount of sugar in cereal 
 #    for each type? Who has more sugar?
 
+boxplot(cereal$Sugar ~ cereal$Type)
+# Children cereals contain more sugar content as compared to adult cereals, 
+# as seen through the median
 
 # f. Use summary() command to find the five number summary of sugar amount. 
 #    Does the results agree with the boxplot from part d? Compute the IQR. 
