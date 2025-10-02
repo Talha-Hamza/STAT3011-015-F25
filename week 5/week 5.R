@@ -50,24 +50,43 @@ pbinom(14, size = 20, prob = 0.6) - pbinom(5, size = 20, prob = 0.6)
 # a) Do mothers’ heights follow a normal distribution? Use histogram and QQ-plot.
 # (Same for daughters)
 
-heights<-read.csv(file.choose(), header = TRUE)
+heights<-read.csv("https://raw.githubusercontent.com/Talha-Hamza/STAT3011-015-F25/refs/heads/main/week%205/Heights%20(5).csv", header = TRUE)
+
+hist(heights$mheight, main = "Histogram for mothers' heights", xlab = "Height (inches)")
+qqnorm(heights$mheight)
+qqline(heights$mheight)
+
+
+hist(heights$dheight, main = "Histogram for daughters' heights", xlab = "Height (inches)")
+qqnorm(heights$dheight)
+qqline(heights$dheight)
 
 # b) Let Y = mother's height, X = daughter's height.
 # Use sample mean and sd as estimates for mu and sigma.
 # Specify the distribution of Y and X
+mean(heights$mheight) # 62.4528
+sd(heights$mheight) # 2.335
+
+mean(heights$dheight) # 63.75
+sd(heights$dheight) # 2.6
 
 # Specify distributions:
 # ANSWER:
-# X (daughter) ~ Normal(mean = ___, sd = ___)
-# Y (mother)  ~ Normal(mean = ___, sd = ___)
+# X (daughter) ~ Normal(mean = 63.75, sd = 2.6)
+# Y (mother)  ~ Normal(mean = 62.45, sd = 2.335)
 
 # c) Suppose mother = 64.45 in, daughter = 65.75 in. Who is relatively taller?
 # After computing means/sds above:
+m_z = (64.45 - 62.45) / 2.335
+d_z = (65.75 - 63.75) / 2.6
+# Since m_z > d_z the mother is relatively taller
 
 # d) What is the probability that an English mother is taller than 63 inches?
-
+pnorm(63, mean = 62.45, sd = 2.36, lower.tail = FALSE)
+# ANSWER: 0.408
 # e) Smallest height to be in the top 5% of mothers' heights:
-
+qnorm(0.95, mean = 62.45, sd = 2.36)
+# ANSWER: 66.3266
 # ------------------------------------------------------------------------------
 # HW Problem (Comcast streaming)
 
@@ -76,9 +95,13 @@ heights<-read.csv(file.choose(), header = TRUE)
 # X ∼ binom(n = 20, p = 0.86)
 
 # a) exactly 15 households subscribe:
-
+dbinom(15,  size = 20, prob = 0.86) # 0.08680819
 
 # b) more than 18 households subscribe (P(X > 18))
+dbinom(19,  size = 20, prob = 0.86) + dbinom(20,  size = 20, prob = 0.86)
+# 0.2084259
+1 - pbinom(18,  size = 20, prob = 0.86)
 
 # c) at most 18 households subscribe (P(X <= 18))
+pbinom(18,  size = 20, prob = 0.86) # 0.7915741
 
