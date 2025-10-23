@@ -1,0 +1,336 @@
+gender,season,hand,year,college,US.Int,MN,MN.fair,campus ,shower,movies,hair,charities,Swiftie ,exercise,courses,TikTok,procrastinate,sleep,sleep.weekend,HS.GPA,college.GPA, tattoos,traffic.tickets ,text.drive,dom.foot,non.dom.foot,num.heads,num.candies
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Yes,Depends,5,18,500,No,2,5,3,4,9,8,3.9,3.9,3,0,No,60,55,4,55
+Male,Winter,Right,Sophomore,Other,U.S.,Yes,No,No,Morning,0,45,0,No,4,5,4,8,6,8,3.5,NA,0,0,No,10,3,5,62
+Female,Fall,Right,Freshman,College of Biological Sciences (CBS),U.S.,No,Yes,Yes,Depends,3,55,0,Yes,1,2,2,2,7,8,3.95,NA,0,0,Yes,116,101,3,70
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,No,Depends,6,130,30,No,2,4,2,2,8,9,4,3.6,0,0,Yes,53,48,6,73
+Female,Spring,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,Yes,Yes,Morning,2,260,100,Yes,1,5,3,2,6,8,3.5,NA,0,0,Yes,300,240,3,48
+Female,Winter,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Evening,8,20,75,No,0.5,4,0,1,8,9,4,NA,0,0,No,127,135,3,84
+Male,Summer,Right,Others (PSEO or Post graduate),Other,U.S.,Yes,Yes,No,Evening,5,20,0,No,1.5,3,0,1,8,10,3.8,NA,0,-1,No,75,60,4,72
+Female,Spring,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,No,Depends,4,0,10,No,0,4,1.5,1,7,8,3.9,3.2,0,0,No,24.77,49.45,5,35
+Male,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,No,Evening,3,0,0,No,1.5,4.5,0,3,7,9,3.93,3.67,0,0,No,90,83,5,67
+Male,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,No,No,Evening,1,40,0,No,2,3,1,8,7,9,3.7,3.5,0,1,Yes,90,85,5,75
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,No,Yes,Depends,5,180,20,No,1,4,2,1,8,6,4,3.71,0,0,No,15,11,7,58
+Female,Fall,Right,Sophomore,Other,U.S.,No,No,Yes,Depends,4,70,0,Yes,0,4,1.5,1,8,9,4,3.8,0,0,Yes,62,124,7,112
+Female,Summer,Right,Sophomore,Other,U.S.,Yes,Yes,No,Depends,4,190,0,Yes,1,8,1,1,7,7,3.99,3.9,1,2,No,120,90,4,101
+Male,Fall,Right,Others (PSEO or Post graduate),Other,U.S.,Yes,No,No,Depends,1,22,40,No,1,5,0,1,7,7,4,3.99,0,0,No,150,160,6,54
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,Yes,Yes,Evening,4,100,50,Yes,2,4,1,2,6,9,3.8,3.9,1,0,Yes,30,20,7,43
+Female,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Morning,0,55,0,No,0,3.5,3,0,6,8,3.6,NA,0,0,No,161.69,186.44,5,78
+Male,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Morning,2,20,0,No,1,4,0,1,8,9,3.87,NA,0,-1,No,65,21,5,60
+Female,Summer,Right,Freshman,College of Biological Sciences (CBS),U.S.,Yes,No,Yes,Evening,4,70,0,I am not sure,1,4,4,1,7,7,3.78,NA,1,0,No,123,126,5,112
+Male,Summer,Right,Sophomore,College of Liberal Arts (CLA),International,No,No,No,Evening,0,40,0,No,2,6,0,1,7,8,3.4,2.9,0,-1,No,150,150,4,55
+Male,Fall,Left,Senior,College of Liberal Arts (CLA),U.S.,Yes,No,No,Depends,5,26,0,No,2,5,2,1,7,5,2.8,3.3,1,0,No,300,250,6,85
+Female,Summer,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,Yes,Yes,Depends,1,100,0,No,1,4,1,3,6,9,3.84,3.58,1,1,No,311,372,6,150
+Male,Winter,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,No,Yes,Morning,12,40,50,No,2,4,2,1,8,7,3.8,NA,0,0,No,120,140,6,63
+Female,Summer,Right,Senior,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Morning,6,0,10,No,2,3,0,3,7,9,3.6,3.3,0,0,No,263,237,3,57
+Male,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,No,No,Evening,0,20,0,No,0,8,0,0,7,9,3.7,3.57,0,-1,No,30,27,7,50
+Female,Fall,Right,Freshman,Other,U.S.,Yes,No,Yes,Depends,3,70,0,No,1,4,3,2,6,9,3.6,NA,0,0,No,42,39,5,52
+Female,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,Yes,No,Evening,3,55,5,Yes,1.5,7,3,4,8,10,4,3,0,1,No,62,33,6,125
+Female,Spring,Left,Others (PSEO or Post graduate),Other,U.S.,Yes,No,No,Morning,1,75,5,No,1,4,2,3,7,7,4,4,0,0,No,127,98,7,90
+Female,Spring,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,No,Evening,0,118,0,No,1,2,1,0.25,5,7,3.5,NA,0,0,No,883,738,4,60
+Female,Summer,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Morning,8,30,15,Yes,2,6,3,1,9,9,4,3.9,0,0,No,63,186,6,103
+Female,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Depends,6,90,0,No,1,3,2,2,8,9,3.8,3.2,0,0,No,30,20,6,100
+Female,Fall,Right,Freshman,Other,U.S.,Yes,Yes,Yes,Evening,3,20,5,No,2,5,0,1,7,7,4,NA,0,0,No,183,124,7,350
+Nonbinary/Genderqueer,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,No,Depends,7,23,60,No,1.5,4,1,0.5,6,8,4,NA,0,-1,No,49,70,6,84
+Male,Winter,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Evening,4,60,0,No,2,6,2,2,6,9,3.4,NA,0,4,No,67,71,3,43
+Female,Winter,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,No,No,Evening,5,0,100,No,1,4,2,1,7,9,3.8,3.2,0,0,Yes,165,130,4,65
+Male,Fall,Left,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,No,No,No,Depends,8,40,0,No,2,4,3,3,9,10,4,3.85,1,1,Yes,611,523,7,105
+Male,Summer,Right,Sophomore,College of Science of Engineering (CSE),U.S.,Yes,Yes,Yes,Morning,12,15,20,No,4,4,2,1,8,10,3.9,3.4,0,0,Yes,148,103,5,57
+Male,Winter,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Evening,0,35,0,No,0,2,1,1,9,10,3.7,NA,0,0,No,46,25,6,47
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,No,Yes,Depends,2,40,100,No,4,4,1,1,7,10,3.9,NA,0,0,No,126,113,6,62
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Yes,Morning,1,70,100,No,1,4,2,2,8,8,3.98,3.97,0,0,No,300,300,7,79
+Female,Fall,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Depends,2,250,100,No,2,3,4,5,7,8,3.7,2.9,0,0,No,43,34,6,67
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Yes,Evening,1,25,0,No,1,8,0,4,7,8,4,3.9,0,0,No,62,66,8,64
+Female,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Evening,1,80,500,No,1,3,1,1,8,10,4,4,0,0,No,350,300,6,87
+Female,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Depends,1,100,0,No,2,3,0,1,8,8,3.93,3.8,0,0,No,277,240,4,27
+Female,Spring,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Morning,6,350,10,No,1,3,0,3,9,11,3.77,3.83,0,1,No,84,70,5,145
+Male,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,Yes,Evening,4,30,0,No,1,2,1.5,1.5,7,9,4,4,0,0,Yes,1000,850,4,112
+Male,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Yes,Morning,3,20,50,No,2,6,0,1,6,9,3.9,3.4,0,0,No,45,20,4,48
+Female,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Evening,8,25,0,No,4,6,2,4,7,7,3.9,3.613,0,0,No,600,600,3,82
+Male,Fall,Left,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Depends,7,50,30,I am not sure,1.5,1.5,1.5,1.5,7,7,3.88,3.77,2,3,No,40,43,5,140
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Morning,5,50,0,No,2,6,2,1,8,8,3.4,NA,0,1,No,90,60,3,58
+Female,Fall,Right,Junior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,No,Morning,5,50,10,No,1,5,0.5,2,8,10,3.9,3.5,4,0,No,NA,NA,5,132
+Female,Fall,Right,Senior,College of Biological Sciences (CBS),U.S.,Yes,Yes,No,Evening,6,100,0,No,0,3,1,2,6,7,3.98,3.53,0,0,No,61,24,6,165
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,Yes,No,Depends,4,80,20,No,3.5,2,3,1,8,9,4,3.804,0,0,No,600,480,7,144
+Female,Fall,Right,Freshman,College of Liberal Arts (CLA),International,No,Yes,Yes,Depends,7,20,0,Yes,1,2,2,NA,8,9,3.7,NA,0,-1,No,300,120,6,36
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Yes,Depends,4,165,0,No,2,6,0,1.5,7,9,3.98,3.752,0,-1,No,70,197,6,75
+Female,Summer,Right,Senior,College of Liberal Arts (CLA),U.S.,No,No,No,Evening,5,120,0,Yes,1.5,5,1,3,7.5,9.5,4,3.5,1,1,Yes,389,217,6,350
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,No,No,Depends,5,60,10,No,0.75,4,2,1,8,9,4,3.6,0,0,No,365,248,4,89
+Male,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Yes,Morning,7,40,0,Yes,1,3,3,2,8,10,4,3.9,0,0,No,300,63,5,63
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,No,Yes,Depends,4,35,15,No,1.5,7,3,4,6,9,3.98,3.7,0,1,Yes,300,90,7,78
+Male,Spring,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Depends,7,50,0,No,2,3,4,5,8,8,3.6,3.6,0,0,Yes,128,94,4,85
+Female,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Depends,3,160,0,No,1.5,3,1,24,7,9,3.6,2.9,0,2,No,5,3,5,83
+Male,Winter,Right,Junior,Other,U.S.,Yes,Yes,Yes,Depends,3,27,0,No,1,2,0,1,6,7,3,3.2,0,0,No,10,10,4,67
+Male,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Evening,2,70,50,No,1,3,3,3,4,11,3.7,NA,0,0,No,120,120,6,80
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,Yes,No,Evening,6,60,0,No,2,4,1,1,7,8,3.8,3.857,0,0,No,75,72,4,68
+Female,Fall,Right,Freshman,Other,U.S.,No,Yes,Yes,Depends,12,122,0,I am not sure,3,10,4,7,5,5,3.89,3.93,1,0,No,141,150,6,132
+Male,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,No,Depends,2,30,15,No,1,3,1,1,7.5,9,4,4,0,0,No,36,34,6,114
+Female,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,No,Yes,Depends,3,90,100,Yes,2,2,2,2,7,4,3.4,NA,0,1,No,60,60,6,43
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Yes,Depends,3,160,0,Yes,1,2,3,2,8,10,3.9,3.2,4,0,Yes,180,126,5,128
+Female,Fall,Right,Senior,College of Biological Sciences (CBS),U.S.,No,Yes,No,Evening,12,15,58,No,1,9,2,3,4,9,3.99,3.12,1,-1,No,92,63,8,158
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Yes,Evening,1,130,5,No,2,8,3,2,7,9,3.7,3.4,0,0,No,60,60,6,95
+Female,Fall,Right,Junior,College of Biological Sciences (CBS),U.S.,No,No,No,Evening,3,0,0,No,1,5,1,2,6,8,4,3,0,1,No,86,47,3,37
+Male,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,Yes,Evening,2,18,0,No,0,5,7,3,7,7,4,3.2,0,0,Yes,10,6,2,41
+Male,Spring,Right,Sophomore,Other,International,No,No,No,Evening,4,50,15,No,3,5,2,1,7,7,3.8,3.5,0,-1,No,60,79,4,56
+Nonbinary/Genderqueer,Fall,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Depends,3,18,3,No,0,7,0,6,7,8,3.914,3.957,0,0,No,16.71,16.23,4,60
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,No,Evening,1,175,50,I am not sure,1,3,0,0,7,8,4,3.2,0,0,No,50,45,4,30
+Female,Fall,Right,Sophomore,Other,U.S.,Yes,No,No,Morning,3,0,0,Yes,1,4,1,1,6,9,3.7,2.3,0,0,No,60,60,2,22
+Male,Summer,Right,Junior,College of Liberal Arts (CLA),U.S.,No,Yes,No,Depends,8,50,20,No,2,3,2,4,8,8,3.1,3.2,0,0,No,158,126,6,82
+Female,Fall,Right,Freshman,College of Biological Sciences (CBS),U.S.,No,Yes,Yes,Depends,7,60,0,No,2,2,4,2,8,6,3.914,NA,0,0,No,315,0,6,42
+Male,Summer,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Morning,8,60,0,No,4,5,0,0,10,12,3.6,NA,11,0,Yes,156,39,5,37
+Female,Spring,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Morning,4,0,0,No,1,2,0,1,8,8,4,3.5,1,4,Yes,60,60,3,57
+Male,Fall,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,Yes,No,Depends,0,40,0,No,2,5,2,0,7,8,4,3.8,0,0,No,56,34,6,59
+Female,Summer,Right,Senior,College of Liberal Arts (CLA),U.S.,No,No,Yes,Evening,2,50,0,Yes,0.5,7,2,3,6,8,3.98,3,4,0,Yes,60,40,6,121
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Prefer not to answer,Depends,3,0,0,No,2,4,2,1,7,8,3.98,3.65,1,1,No,167,109,6,60
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,No,Yes,Morning,2,60,0,No,1,2,3,2,7,8,3.6,NA,0,0,Yes,30,20,6,38
+Female,Fall,Right,Sophomore,Other,U.S.,Yes,No,No,Evening,1,175,0,I am not sure,2,2,1,0.1,8,8,4,3.9,2,2,No,4,2,4,75
+Male,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,No,Depends,3,35,0,No,3,3,0,4,7,9,3.9,3.6,0,0,No,60,67,4,78
+Male,Spring,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Morning,0,25,10,No,1,0.5,1,1,6,7,3.85,NA,0,0,Yes,15,10,7,80
+Female,Spring,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Yes,Evening,2,130,20,No,0.5,3,0,2,9,9,4,3.7,0,0,No,336,212,6,99
+Female,Summer,Left,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Depends,4,55,20,No,1,6,2,0.5,9,10,3.8,NA,0,0,No,60,45,4,108
+Female,Spring,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Yes,Depends,3,60,0,Yes,1,4,2,2,8,8,3.89,3.442,0,0,No,120,120,4,31
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,Yes,Evening,6,70,50,No,2,4,2,2,7,9,3.8,3.2,2,0,Yes,685,618,5,175
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,No,Yes,Evening,4,75,2,Yes,1,4,2,3,8,8,3.94,3.792,0,1,No,134,114,4,113
+Male,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,No,Morning,1,20,0,No,1,3,1,2,7,8,3.9,3.4,0,0,No,10,4,6,65
+Female,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,No,No,Evening,9,175,0,Yes,1,3,2,2,6,8,3.86,3.2,4,0,Yes,33,25,4,54
+Male,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,No,Yes,Morning,5,25,100,No,2,3,2,2,9,10,3.9,3.4,0,0,No,183,165,5,75
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Morning,5,333,0.24,No,2,5,1,0.5,8,10,3.7,NA,0,0,No,300,300,6,175
+Female,Fall,Left,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,No,Yes,Yes,Depends,3,30,0,Yes,1.5,2,2,2,8,7,3.65,3.4,1,0,No,11,10,4,90
+Female,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,Yes,Yes,Depends,2,140,0,Yes,2,3,1,1,6,8,3.3,NA,1,0,Yes,120,90,5,122
+Male,Winter,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Depends,2,40,0,No,2,3,2,2,9,9,3.8,3.3,2,0,Yes,90,90,4,116
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Morning,9,50,40,No,3,5,2,0.5,8,9,3.53,NA,0,0,No,11,9,6,42
+Male,Winter,Right,Senior,College of Liberal Arts (CLA),U.S.,No,No,No,Evening,1,35,0,No,0.75,2,0,2.5,6.5,9,3.9,3.97,0,0,No,164,339,6,173
+Female,Summer,Right,Senior,College of Science of Engineering (CSE),U.S.,Yes,Yes,Yes,Evening,4,36,0,No,1,6,0,2,5,8,3.7,3,0,2,Yes,60,45,6,80
+Female,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Evening,4,75,0,No,2,5,2,2,8,8,3.78,NA,0,0,Yes,189,131,6,52
+Female,Fall,Right,Senior,College of Biological Sciences (CBS),U.S.,Yes,No,Yes,Depends,2,450,0,I am not sure,1,5,3,4,7,8,4,2.7,0,0,No,81,78,6,62
+Female,Fall,Left,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,No,Evening,3,0,0,I am not sure,1,8,1,8,6,9,3.9,3.4,2,0,No,120,120,5,36
+Female,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Depends,1,60,0,No,0.5,3,2,2,7,9,3.6,3.1,1,0,No,86,49,6,47
+Male,Summer,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Depends,2,45,0,I am not sure,2,2,NA,NA,8,7,3.9,3.1,0,1,No,50,45,4,150
+Female,Fall,Right,Freshman,College of Biological Sciences (CBS),U.S.,Yes,No,Yes,Evening,8,100,25,Yes,2,3,2,3,6,8,4,4,0,0,No,255,125,3,56
+Female,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Depends,5,0,20,Yes,2,5,2,1,7,7,3.91,3.83,0,0,No,300,180,6,45
+Female,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Evening,2,175,50,Yes,2,4,2,2,8,7,3.6,NA,0,0,No,300,240,4,32
+Female,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Evening,8,60,30,No,3,5,4,3,7,9,3.5,NA,0,1,Yes,360,240,3,40
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Yes,Evening,5,60,0,I am not sure,2,8,5,12,7,9,4,3.2,0,0,Yes,10,5,7,72
+Female,Spring,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,No,Morning,2,60,50,No,1,12,0,2,6,10,3.7,3,0,0,No,216,106,5,56
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,Yes,Morning,3,300,0,No,4,4,3,2,8,8,3.7,2.96,0,2,Yes,30,32,6,55
+Male,Winter,Right,Others (PSEO or Post graduate),Prefer not to answer,U.S.,Yes,Yes,No,Evening,1,0,0,No,0,6,0,0.5,6,9,4,3.667,0,0,No,60,20,4,40
+Male,Summer,Right,Junior,Other,U.S.,Yes,Yes,No,Evening,2,50,0,No,2,5,1,2,7,9,3.94,3.6,0,1,No,60,50,5,73
+Male,Fall,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Morning,1,40,20,No,1,5,1,0,8,8,3.9,3.8,0,0,No,58,22,6,68
+Male,Summer,Right,Senior,College of Biological Sciences (CBS),U.S.,Yes,No,No,Morning,7,25,0,No,0.75,9,1.5,2,7,8,3.9,3.663,0,1,No,184,162,6,112
+Female,Fall,Right,Freshman,College of Biological Sciences (CBS),U.S.,No,Yes,Yes,Depends,5,25,70,No,3,2,0.5,0,8,8,3.98,3.8,0,0,No,120,120,6,43
+Male,Winter,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Depends,2,0,250,No,1,1.5,0,0.5,6,5,3.5,3.667,1,0,No,120,80,6,32
+Female,Fall,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,No,No,No,Evening,3,100,0,No,1,3,1,2,7,9,3.9,3.4,1,2,Yes,136,97,6,95
+Female,Summer,Right,Junior,College of Liberal Arts (CLA),International,No,No,Yes,Evening,3,5,0,I am not sure,1,3.5,1,0.5,7,8,3.53,3.882,0,0,No,348,240,6,36
+Female,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Depends,5,15,5,No,1,4,5,3,6,9,3.7,NA,0,0,No,10.01,7.37,7,137
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,No,Evening,5,50,100,No,3,6,2,2,7,10,3.79,NA,0,0,No,50,37,6,34
+Female,Fall,Left,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Evening,4,100,20,No,1,2,0,0,8,9,3.5,NA,0,0,No,60,20,5,44
+Female,Summer,Left,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Yes,Depends,4,60,0,Yes,1,2,2,1,9,10,3.7,3.92,1,1,No,315,615,6,60
+Female,Winter,Right,Junior,College of Biological Sciences (CBS),U.S.,No,No,No,Depends,4,30,50,No,0,4,0,1,7,8,3.8,3.4,0,0,No,120,120,6,83
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Yes,Evening,3,0,30,I am not sure,2,6,2,4,7,9,3.9,NA,0,0,Yes,900,360,6,82
+Female,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,No,Yes,Evening,9,50,720,No,1,2,0,5,8,8,3.43,NA,0,0,No,240,240,5,70
+Male,Winter,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,No,Depends,1,40,0,No,2,6,0,NA,7,6,3.9,NA,0,1,No,NA,NA,8,90
+Male,Fall,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Morning,8,25,30,Yes,1.5,4,0,3,6,9,3.3,3,0,0,No,195,180,3,155
+Female,Winter,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,No,No,Morning,2,170,0,No,0,6,1,0,6,10,3.75,3.51,0,0,No,300,120,6,50
+Female,Fall,Right,Freshman,College of Liberal Arts (CLA),International,No,No,Yes,Depends,2,0,0,No,2,10,0,1,6,8,NA,NA,0,0,No,37,114,7,30
+Female,Spring,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Depends,4,130,50,No,3,1,4,24,5,6,3.6,2.75,0,1,Yes,148,152,6,122
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,Yes,Yes,Evening,6,300,0,No,1,3,2.5,2,7,10,4,3.6,0,0,No,247,277,4,121
+Female,Fall,Left,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,Yes,Evening,4,120,100,No,0,4,2,1,7,8,4,4,0,0,No,24,52,5,93
+Female,Summer,Right,Junior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,No,No,Morning,2,100,0,No,1.5,3,1,0,10,10,3.6,3.8,8,0,No,50,20,5,30
+Male,Summer,Right,Junior,Other,U.S.,Yes,No,Yes,Evening,5,31,500,No,2,3,2,1,8,9,3.2,3.3,2,0,No,60,60,6,60
+Male,Summer,Left,Freshman,College of Liberal Arts (CLA),U.S.,No,No,Yes,Depends,3,25,2,No,3,3,0,1,8,7,4,NA,0,0,No,74,62,6,87
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Morning,1,40,100,No,3,5,1,1,8,10,3.4,NA,0,0,No,15,10,5,32
+Male,Fall,Right,Junior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,No,No,No,Morning,3,0,0,Yes,1,2,2,3,7,8,3.7,3,0,0,No,60,30,7,35
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Morning,2,26,0,No,11,6,0,1,6,9,3.5,NA,0,1,No,6,10,3,90
+Female,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Depends,3,600,0,No,1,4,3,2,8,10,3.67,NA,0,0,No,60,30,6,35
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Depends,4,30,5,No,2,2,2,1,7,10,3.45,3.45,0,0,No,92,48,4,43
+Male,Winter,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,No,No,Evening,12,25,1,No,0.5,3,0,2,6.5,9,4,NA,0,0,No,180,90,4,86
+Male,Summer,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,Yes,No,Evening,2,80,0,No,2,5,0,2,7,8,3.82,3.7,0,0,No,311,297,7,72
+Female,Spring,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,No,Morning,2,80,6,I am not sure,1.5,2,2,0.5,7,9,3.84,2.92,2,0,No,25,10,4,75
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Depends,4,35,5,No,2,4,1,0,7,8,3.8,3.7,0,1,No,126,120,6,100
+Male,Spring,Left,Freshman,College of Liberal Arts (CLA),U.S.,No,No,Yes,Evening,1,40,10,No,1,2,0,3,8,9,3.5,NA,0,-1,No,89,34,4,77
+Female,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Depends,1 0,140,0,No,2,3,1.5,2,7,7,3.9,2,0,0,Yes,120,100,5,51
+Male,Fall,Right,Freshman,Other,U.S.,Yes,Yes,No,Depends,3,0,0,No,0.5,5,1,2,6,8,3.3,NA,4,-1,No,64,108,6,112
+Male,Fall,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,No,Yes,Morning,2,40,500,No,2,4,0,1,7,8,3.98,2.97,1,1,Yes,102,24,6,96
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,Yes,Yes,Morning,7,25,0,No,1,2,NA,2,7,6,3.3,NA,0,0,Yes,92.5,83.4,5,43
+Female,Spring,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Evening,5,50,100,No,1,4,3,5,7,9,NA,NA,0,0,Yes,125,107,4,64
+Female,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Depends,1 0,180,50,Yes,1,4,2,1,7,9,3.5,NA,0,0,No,60,30,7,46
+Male,Summer,Left,Sophomore,College of Liberal Arts (CLA),U.S.,No,Yes,Yes,Depends,0,27,0,No,2,4,2,3,7,7,2.7,3.9,0,1,Yes,128,123,7,35
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,No,No,Evening,5,210,0,No,1.5,4,1.5,2,6,9,3.9,3.76,2,0,Yes,200,150,4,53
+Female,Summer,Right,Senior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,No,Depends,1,150,0,No,0.5,5,1,3,6,9,3.5,3.2,5,0,No,60,60,3,86
+Male,Summer,Right,Others (PSEO or Post graduate),Other,U.S.,Yes,No,No,Morning,12,40,0,No,1,5,0,3,7,9,3.82,NA,0,0,No,303,279,6,90
+Male,Spring,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,No,Yes,Morning,6,22,0,No,3,2,0,3,7,8,3.8,3.5,0,0,Yes,300,220,6,91
+Male,Winter,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Depends,2,40,0,No,2,6,3,4,7,6,3.7,3.2,0,4,Yes,10,6,4,97
+Male,Fall,Right,Junior,College of Biological Sciences (CBS),U.S.,No,No,No,Depends,5,25,30,No,1,1,0,2,7,7,4,3.8,0,0,Yes,60,60,4,89
+Male,Spring,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,No,No,Morning,1,60,0,No,1,4,3,5,6.5,10,NA,3.7,0,0,No,480,450,7,185
+Male,Fall,Left,Sophomore,College of Liberal Arts (CLA),International,No,Other,Yes,Evening,8,200,100,I am not sure,2,2,0,1,7,12,3.8,3,2,-1,No,90,40,5,32
+Male,Summer,Left,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Depends,5,0,0,No,2,2,1,1,7,9,3.6,NA,0,2,Yes,30,45,6,70
+Female,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Morning,4,70,20,Yes,3,6,4,6,7,9,3.56,NA,0,0,No,120,156,4,42
+Female,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Depends,5,245,0,No,1.5,3,3,3,7,8,3.2,NA,0,0,Yes,90,45,4,64
+Female,Fall,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Yes,Depends,5,200,50,Yes,1.5,2,2,3,6,8,3.5,3.1,0,0,No,10,10,6,317
+Male,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Depends,1,50,0,No,1,2,0,24,8,9,3.1,3.6,0,1,Yes,10,10,5,100
+Male,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,No,No,Morning,3,25,50,No,3,3,2,1,7,6,NA,3.8,4,2,No,56,51,7,129
+Female,Fall,Right,Junior,College of Liberal Arts (CLA),U.S.,No,Yes,Yes,Depends,4,45,50,Yes,1,5,0,3,8,9,3.8,2.7,4,0,No,NA,45,4,84
+Male,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Depends,7,40,0,No,10,4,1,5,8,10,3.5,3.3,8,0,No,40,30,4,48
+Male,Fall,Left,Senior,College of Biological Sciences (CBS),International,No,Yes,No,Depends,0,60,0,No,0,5,0,2,7,8,NA,3.77,0,-1,No,15,10,5,37
+Female,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Evening,3,85,50,Yes,1,5,2,1,9,7,3.7,4,0,0,No,75,50,4,55
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Yes,Depends,5,80,0,No,2,6,2,2,7,8,3.7,NA,0,0,No,10,7,4,65
+Male,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,Yes,Morning,0,35,100,No,2,4,1,2,1,3,3.8,3.2,0,2,Yes,50,80,7,81
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Yes,Depends,3,150,5,Yes,1,8,0.5,4,5,6,3.97,3.6,5,0,No,75,50,7,210
+Male,Summer,Right,Freshman,Other,U.S.,Yes,Yes,Yes,Evening,3,35,0,No,1.5,3,4,4,7,9,3.4,NA,0,0,Yes,240,139.4,6,130
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,No,Evening,3,130,0,No,2,6,2,2,7,6,3.9,3.7,1,0,No,68,43,4,64
+Male,Fall,Left,Freshman,Other,U.S.,Yes,Yes,Yes,Morning,3,21,50,No,2,5,2,4,7,8,3.7,NA,1,0,No,13,8,2,62
+Male,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,No,Yes,Morning,12,40,15,No,2,4,3,2,7,10,3.87,NA,0,0,Yes,354,289,6,68
+Female,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Morning,12,80,5,No,1,3,1,2,7,9,3.9,NA,0,2,No,NA,30,6,140
+Female,Spring,Right,Freshman,College of Biological Sciences (CBS),U.S.,Yes,No,No,Depends,2,0,1,No,0,6,0,2,7,9,3.94,3.5,0,0,No,151,56,6,74
+Female,Fall,Right,Junior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Yes,Morning,2,350,10,No,1,3,4,2,7,9,3.2,2.5,5,0,No,60,20,7,55
+Female,Fall,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,Yes,No,Depends,4,50,0,No,0,5,0,3,7.5,8,3,3.4,1,1,No,8,6,6,53
+Male,Summer,Right,Junior,College of Liberal Arts (CLA),International,No,Other,No,Depends,4,10,0,No,2,4,2,5,8,10,3.8,2.9,0,-1,Yes,60,60,5,120
+Male,Winter,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,Yes,Yes,Morning,2,30,25,No,2,3,1,4,7,9,3.4,NA,0,0,Yes,606,537,6,135
+Male,Fall,Right,Senior,College of Biological Sciences (CBS),U.S.,Yes,Yes,No,Morning,8,50,10,No,6,4,2,2,7,9,3.9,3.2,1,0,No,16,12,6,72
+Male,Fall,Left,Senior,College of Biological Sciences (CBS),U.S.,Yes,No,No,Depends,1 0,30,65,No,4,6,0,3,6,8,NA,NA,2,0,No,241,113,4,61
+Female,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Evening,1,15,0,Yes,10,5,2,0,10,10,3.9,3.75,0,0,No,100,90,6,120
+Male,Winter,Right,Freshman,Other,U.S.,Yes,No,No,Morning,3,10,0,No,1,1,0,2,8.5,8.5,3.7,NA,0,0,Yes,50,40,3,110
+Female,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Evening,8,75,35,No,1,6,1,2,6,7,3.651,NA,0,0,Yes,217,50,4,164
+Nonbinary/Genderqueer,Winter,Right,Freshman,College of Liberal Arts (CLA),International,No,Yes,Yes,Evening,4,0,200,No,4,5,0,5,7,8,3.8,NA,0,-1,No,112,112,7,200
+Male,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,No,Yes,Morning,1 0,15,20,No,7,20,0,4,8,8,4,3.6,0,1,No,10,6,5,50
+Male,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,No,No,Morning,4,40,0,No,3,3,2,1,7,8,3.4,3.7,0,0,Yes,100,80,6,64
+Female,Fall,Right,Sophomore,College of Liberal Arts (CLA),International,No,No,Yes,Evening,3,150,0,No,1,2,2,2,7,9,4,3.907,0,0,No,0,0,6,100
+Male,Fall,Right,Junior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,No,Evening,4,0,0,No,2,5,0,0,7,8,3.9,3.4,5,0,No,27,25,4,47
+Male,Summer,Right,Others (PSEO or Post graduate),College of Biological Sciences (CBS),U.S.,Yes,No,No,Depends,3,20,100,No,1,12,3,0,8,10,3.99,4,1,2,No,60,45,6,67
+Male,Winter,Right,Freshman,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",International,No,No,No,Morning,0,12,0,No,2,3,2,2,10,8,3.5,NA,0,0,Yes,60,60,0,30
+Female,Fall,Right,Senior,College of Biological Sciences (CBS),U.S.,Yes,Yes,No,Depends,8,380,150,Yes,1.5,3,0.5,2,8,8,4,3.28,0,0,No,42,47,7,76
+Female,Fall,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Depends,5,0,0,Yes,1,2,2,2,9,9,3.4,2.9,10,1,Yes,30,20,4,55
+Female,Fall,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Evening,5,60,0,No,0,4,NA,2,6,7,3.8,3.2,0,0,No,30,20,4,32
+Male,Summer,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Depends,6,45,0,No,2,6,3,10,8,6,3.6,3.2,1,1,Yes,57,50,7,34
+Male,Winter,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,Yes,No,Morning,1 0,45,0,No,1.5,4,1,2,8,6,3.79,2.9,2,1,No,40,34,6,46
+Male,Spring,Right,Sophomore,College of Liberal Arts (CLA),International,No,No,No,Depends,2,50,0,No,1,4,5,5,6,10,3.6,3.4,0,-1,No,25,18,6,60
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,Yes,Depends,6,20,40,Yes,1,3,2,4,7,10,4,3.2,0,0,No,15,8,7,145
+Male,Winter,Right,Sophomore,College of Liberal Arts (CLA),International,No,No,No,Evening,5,200,1300,No,1,8,0.5,1,7,11,NA,3.55,0,0,No,900,600,7,80
+Female,Spring,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,No,Evening,2,100,3,No,0,7,0.5,3,7,9,3.9,3.6,1,0,No,70,40,3,90
+Female,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Evening,2,60,10,No,1,5,2,4,6,10,3.5,NA,0,0,No,508,314,5,160
+Male,Summer,Right,Sophomore,College of Liberal Arts (CLA),International,No,Yes,No,Evening,4,60,0,I am not sure,1,3,2,1,7,8,3.9,3.6,0,0,No,30,28,6,96
+Nonbinary/Genderqueer,Spring,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Evening,0,0,0,No,0,4,0,2,5,5,3.6,2.08,0,-1,No,70,43,4,50
+Female,Spring,Right,Sophomore,College of Liberal Arts (CLA),International,No,No,No,Morning,0,45,0,I am not sure,1,2,2,3,8,8,3.9,3.5,0,-1,No,30,30,6,110
+Female,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,No,No,Evening,11,30,10,No,1,3,3,2,8,10,3.897,3.762,0,0,No,45,32,6,42
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,Yes,Depends,3,70,0,No,1.5,4,2,1,7,10,3.9,3,2,1,Yes,300,120,6,67
+Male,Fall,Left,Junior,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Depends,6,40,20,No,2,3,2,3,7,6,3.7,3.4,0,0,No,120,100,5,86
+Male,Fall,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Morning,2,27,50,No,2,6,3,4,7,6,3.4,3,0,3,No,119,142,6,55
+Male,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Yes,Morning,2,50,0,No,1.5,4,0,1,9.5,10,3.9,3.557,0,0,No,300,120,4,76
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,No,No,Evening,1,15,0,No,1,4,2,2,7,8,3.9,3.8,0,0,Yes,155,138,6,60
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,No,Depends,2,120,20,Yes,1.5,4,1,1,7,8,4,3.82,3,1,Yes,52,41,7,42
+Female,Fall,Left,Freshman,College of Biological Sciences (CBS),U.S.,Yes,Yes,Yes,Depends,4,80,50,No,2,3,2,2,7,8,3.95,NA,0,0,No,1475,973,4,100
+Male,Winter,Right,Sophomore,Other,U.S.,No,No,Yes,Depends,5,62.5,50,No,2,3,NA,1,8,9,4,3.91,NA,0,No,34,27,3,113
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,No,No,Evening,9,37,15,No,2,5,4,24,6,9,3.7,3,8,0,No,60,50,7,54
+Female,Summer,Right,Sophomore,Other,U.S.,Yes,Yes,Prefer not to answer,Evening,1 0,100,50,No,1,3,2,1,9,10,3.2,3.4,0,0,No,120,44,7,54
+Female,Winter,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Evening,5,130,20,No,2,4,4,1,7,8,3.6,3.4,0,1,No,135,112,6,71
+Male,Summer,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,No,No,Morning,0,40,60,No,1,2,0,2,6.5,6.5,3.67,3.7,0,0,No,54,24,6,98
+Female,Fall,Right,Freshman,College of Liberal Arts (CLA),International,No,No,No,Depends,1,100,100,No,1,5,3,1,9,9,NA,NA,0,-1,No,120,75,6,80
+Male,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,No,No,Morning,3,50,150,No,2,4,2,2,6,8,3.9,3.8,0,0,No,63,57,6,111
+Female,Spring,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Depends,6,250,10,Yes,0.5,3,2,2,8,9,3.8,3.6,0,0,No,2.18,1.46,3,60
+Female,Fall,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Morning,2,200,0,No,2,4,1,1,8,10,3.9,3,0,0,Yes,180,120,5,33
+Female,Summer,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Depends,5,0,0,No,1,3,2,3,7,7,4,3.5,0,0,Yes,65,45,6,55
+Male,Summer,Both,Junior,College of Liberal Arts (CLA),U.S.,No,Yes,No,Depends,1,40,0,Yes,6,2,2,5,7,8,3.6,3,0,0,Yes,220,210,4,62
+Female,Fall,Right,Freshman,Other,U.S.,Yes,No,Yes,Depends,0,0,0,No,2,4,0,2,7,9,3.8,NA,0,0,Yes,300,300,8,63
+Female,Fall,Left,Sophomore,College of Liberal Arts (CLA),U.S.,No,Yes,No,Depends,1 0,270,100,I am not sure,1,4,2.5,4,7,9,3.98,3.9,5,1,Yes,61,22,6,120
+Male,Winter,Right,Freshman,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Yes,Morning,1,20,100,No,3,3,0,2,7,9,4,NA,0,0,No,110,45,6,67
+Male,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,Yes,No,Morning,2,40,0,No,1,2,0,1,7,8,3.2,NA,13,0,Yes,30,58,5,124
+Female,Fall,Right,Senior,College of Biological Sciences (CBS),U.S.,Yes,No,No,Evening,12,80,0,No,1,10,5,24,8,10,3.8,3.2,9,2,No,123,70,5,75
+Female,Fall,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Depends,3,120,0,No,1,4,2,3,7,7,3.963,3.6,1,0,Yes,240,240,8,56
+Female,Summer,Right,Junior,College of Biological Sciences (CBS),U.S.,No,Yes,No,Evening,2,25,0,No,3,5,2,1,7,9,4,3.97,0,0,No,99,62,6,80
+Male,Summer,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,Yes,No,Morning,1 0,45,0,No,1,3,2,4,8,10,3.8,3,0,1,No,46,32,6,96
+Female,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,No,No,Morning,1,50,0,No,2,10,3,3,8,8,3.72,3.4,0,0,No,132,93,3,30
+Male,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Morning,6,30,0,No,1.5,0,1.5,2,7,9,3.87,NA,0,0,No,173,111,4,77
+Female,Summer,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,Yes,No,Evening,3,65,20,No,2,3,1,2,6,9,3.5,3.7,5,0,No,115,109,5,125
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Morning,5,40,0,No,2,3,1,1,8,10,3.8,NA,0,0,No,25,28,5,58
+Male,Summer,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Morning,6,20,0,No,3,3,0,2,8,9,3.4,3,3,0,No,80,45,6,40
+Male,Summer,Right,Senior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Yes,Depends,3,0,0,No,2,4,0,0.75,7,8,3.9,3.151,0,1,No,53,104,4,64
+Male,Spring,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Depends,5,70,0,No,1,1,0,3,7,10,3.5,3.69,0,0,No,60,50,6,55
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Morning,7,30,50,No,1,2,0,1,8,9,3.4,NA,0,0,Yes,100,50,4,65
+Female,Spring,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,Yes,Yes,Evening,2,0,0,No,2,3,8,8,6,10,3.9,3.4,0,0,No,187,124,6,68
+Male,Summer,Right,Sophomore,Other,U.S.,Yes,No,Yes,Depends,7,20,3,Yes,1.5,2.5,0.5,1.5,8.5,9.5,3.342,3.1,0,0,No,248,147,3,109
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Morning,0,40,0,No,1,3,2,1,6.5,9,3.45,NA,0,1,No,57,54,6,1
+Nonbinary/Genderqueer,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,No,Yes,Depends,0,40,150,No,1,6,0,4,7,9,3.5,NA,0,0,No,78,47,8,132
+Male,Fall,Right,Sophomore,Other,U.S.,Yes,No,No,Depends,3,10,0,No,1,2,1,2,8,9,3.98,3.79,0,-1,No,33,42,3,45
+Male,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,Yes,No,Morning,4,40,0,No,1.5,2,2,3,7,10,4,3.8,0,0,Yes,20,18,4,63
+Female,Spring,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,Yes,Yes,Depends,3,30,10,No,1.5,3,2,2,7,8,3.8,3.1,0,1,Yes,112,120,4,45
+Male,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,Yes,Yes,Depends,1,40,1,No,2,2,2,4,8,10,3.6,3.2,0,0,Yes,NA,30,4,78
+transfeminine,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,No,Morning,0,90,20,No,1.5,4,0.5,4,7,7,3.85,NA,0,-1,No,130,133,4,130
+Female,Spring,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Depends,3,30,0,No,0,6,5,5,7,5,3.7,3.4,0,0,No,52,37,3,120
+Female,Summer,Right,Sophomore,Other,U.S.,Yes,No,No,Evening,3,100,200,Yes,2,4,1,1,8,7,3.94,3.9,0,0,No,60,52,6,63
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,No,Yes,Morning,3,30,2,No,1.5,3,2,1,8.5,8.5,3.8,NA,0,0,No,60,40,6,182
+Male,Spring,Right,Sophomore,College of Liberal Arts (CLA),International,No,No,Yes,Evening,1 0,0,0,No,1,6,2,1,7,8,4,3.4,0,0,No,30,20,7,60
+Male,Spring,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Depends,3,20,0,No,1,1,1,20,7,9,3.2,2.8,0,8,Yes,100,100,6,97
+Female,Summer,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Depends,2,20,20,No,1,3,3,4,7,10,3.9,2.5,6,0,No,132,121,6,46
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Morning,3,30,0,No,3,2,0.5,1,8,10,3.65,NA,0,0,No,31,36,3,76
+Female,Summer,Right,Sophomore,College of Liberal Arts (CLA),International,No,No,No,Depends,2,30,0,No,0.5,3,3,3,8,10,3.3,3.5,0,0,No,20,15,4,24
+Female,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Evening,6,200,10,Yes,1,3,2,1.5,8,7,3.5,NA,0,0,No,300,180,5,450
+Female,Fall,Right,Senior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,No,Morning,1,15,480,No,1,3,1,3,7,9,3.8,3.2,8,1,No,5,4,5,95
+Female,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Evening,1 0,200,200,No,1,5,2,4,8,10,3.5,NA,0,0,No,112,90,4,124
+Female,Summer,Left,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Yes,Morning,5,200,200,Yes,2,6,0.5,1,4,4,4,3.33,1,0,Yes,527,486,5,207
+Male,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,No,Yes,Depends,2,55,0,No,1.5,4,0.5,1,7,9,3.56,NA,0,1,No,73,60,6,53
+Female,Fall,Right,Junior,College of Liberal Arts (CLA),U.S.,No,Yes,No,Evening,4,60,0,Yes,1,2.5,4,3,8,5,3.89,3.81,2,0,Yes,180,120,3,64
+Male,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Yes,Depends,2,50,500,No,2,3,1,3,7,9,4,3.85,0,0,No,150,125,6,68
+Male,Spring,Right,Others (PSEO or Post graduate),Other,U.S.,Yes,Yes,No,Evening,2,40,0,No,2,4,2,1,7,8,4,NA,0,0,No,155,60,4,120
+Female,Winter,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,No,Evening,4,50,0,No,1,5,0,2,7,9,4,3.6,0,0,No,120,74,6,65
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Yes,Depends,5,25,0,Yes,1,4,1,2,7,8,4,4,3,1,No,167,41,4,167
+Male,Summer,Right,Freshman,Other,U.S.,Yes,Yes,Yes,Evening,0,50,0,No,1,3,3,4,7,9,3.6,NA,3,0,Yes,133,96,6,62
+Female,Fall,Right,Sophomore,College of Liberal Arts (CLA),Prefer not to answer,Yes,No,No,Morning,3,10,0,Yes,1.06666667,5,0,4,5.6,6.4,3.5,2.5,0,0,No,5,3,5,42
+Male,Summer,Left,Junior,Other,U.S.,Yes,Yes,No,Morning,3,90,0,No,4,5,2,4,6,8,NA,3.012,1,3,Yes,90,60,7,67
+Male,Winter,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,Yes,No,Morning,1 0,0,0,No,1,5,2,3,7,8,3.5,3.7,1,0,Yes,70,60,7,82
+Male,Summer,Right,Junior,College of Science of Engineering (CSE),U.S.,Yes,Yes,No,Depends,3,35,0,No,1,2,0,4,5,8,3.9,3.5,0,2,Yes,30,15,3,62
+Female,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Morning,6,80,0,No,3,4,2,3,8,9,3.4,3.2,0,0,No,37,17,4,130
+Female,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Depends,1,40,30,No,1,4,4,2,8,7,3.7,3.7,0,0,No,2,1,4,48
+Female,Spring,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Evening,3,45,0,No,2,4,3,5,7,6,3.5,NA,0,0,No,25,10,8,54
+Male,Summer,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,No,No,Morning,8,0,0,No,1,4,0,6,6,8,3.6,2,0,0,No,105,93,3,75
+Female,Fall,Right,Senior,College of Biological Sciences (CBS),U.S.,Yes,Yes,No,Depends,2,35,2,No,1,3,0,1,7,10,3.8,2.7,0,0,No,8,5,3,160
+Male,Summer,Right,Senior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Yes,Morning,5,0,0,No,1,3,1,2,7,11,3.7,2.8,0,1,Yes,50,9,7,34
+Female,Spring,Right,Junior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,No,No,Evening,2,31,0.03,No,1.5,1.5,0.25,0.25,8,8.5,3.8,3.6,0,2,No,300,150,6,69
+Male,Summer,Right,Junior,College of Liberal Arts (CLA),International,No,Yes,No,Morning,3,40,400,Yes,2,3,2,0,7,9,3.5,3.3,0,1,No,60,50,3,100
+Male,Summer,Right,Junior,College of Liberal Arts (CLA),International,No,No,No,Morning,7,25,50,No,2,4,2,4,8,9,3.78,3.2,0,-1,No,10,7,7,24
+Female,Fall,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,Prefer not to answer,Evening,6,189.75,0,No,1,5,0,2,8.5,8.5,3.2,3.58,0,0,No,296.8,166.6,4,61
+Female,Fall,Right,Others (PSEO or Post graduate),College of Biological Sciences (CBS),U.S.,Yes,No,No,Evening,3,210,150,Yes,2,3,1,0.5,7,10,4,3.8,0,1,No,90,45,6,78
+Male,Summer,Right,Senior,College of Liberal Arts (CLA),U.S.,No,Yes,Yes,Depends,4,23,0,No,6,8,5,5,8,9,3.6,3.32,0,2,No,20,15,7,65
+Male,Fall,Right,Sophomore,College of Liberal Arts (CLA),International,No,No,No,Evening,3,30,1000,I am not sure,3,5,1,1,8,9,3.8,3.9,0,-1,No,5,3,1,35
+Female,Spring,Right,Junior,College of Science of Engineering (CSE),U.S.,Yes,No,No,Evening,0,150,5,No,1,5,1,1,9,9,4,3.95,0,1,No,20,15,4,78
+Female,Spring,Right,Freshman,College of Liberal Arts (CLA),International,No,Yes,Yes,Depends,5,100,0,No,1,5,0,2,7.5,8,NA,3.8,0,0,Yes,10,5,6,50
+Male,Summer,Left,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Depends,2,40,0,I am not sure,1,4,2,0,11,12,3.8,4,0,0,No,60,60,4,46
+Male,Spring,Right,Junior,College of Liberal Arts (CLA),U.S.,No,Yes,No,Evening,3,270,0,No,3,2,1,6,7,10,3.8,3.5,0,0,No,50,35,6,48
+Female,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,Prefer not to answer,No,No,Morning,4,190,700,No,2,4,3,NA,5,8,3.4,NA,0,-1,No,99,59,9,160
+Female,Fall,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Depends,2,0,0,No,2,2,2,4,8,8,3.2,2.92,1,0,No,52,74,3,52
+Female,Spring,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,No,Morning,2,80,20,No,1,4,2,3,5,8,3.9,3.55,4,0,No,336,305,4,92
+Female,Fall,Right,Sophomore,Other,U.S.,No,No,Yes,Depends,3,50,0,No,1,5,1,0,7,9,3.5,NA,5,0,No,60,60,5,30
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Yes,Evening,3,270,0,Yes,1,2,3,2,8,8,3.7,3.75,0,0,Yes,159,68,6,75
+Prefer not to answer,Winter,Right,Junior,Other,U.S.,Yes,Yes,Yes,Evening,1 0,40,0,No,1.5,4,2,2,8,10,3.8,3.77,0,-1,No,60,54,7,60
+Male,Winter,Right,Sophomore,College of Science of Engineering (CSE),U.S.,Yes,Yes,No,Evening,1,20,5,No,10,12,20,20,7,8,3.7,3.1,0,0,Yes,20,22,7,110
+Female,Fall,Right,Freshman,Other,U.S.,Yes,Yes,Yes,Morning,0,0,0,I am not sure,1,2,2,0,7,9,3.8,NA,0,0,No,50,30,4,52
+Female,Winter,Right,Freshman,College of Biological Sciences (CBS),U.S.,Yes,Yes,No,Depends,2,10,60,No,10,6,8,2,7,6,4,NA,0,0,No,30,20,7,350
+Male,Fall,Right,Freshman,Other,U.S.,No,No,Yes,Evening,2,0,0,No,3,5,2,2,7,9,3.7,NA,0,0,No,120,120,6,330
+Male,Summer,Left,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Yes,Evening,7,20,100,No,2,3,0,2,7,8,3.5,3.7,0,2,Yes,51,42,6,56
+Male,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,Yes,No,Morning,2,0,0,No,1,6.7,1,4,7.5,9,4,3.5,0,0,Yes,82,60,4,59
+Female,Fall,Right,Senior,College of Biological Sciences (CBS),U.S.,No,Yes,Yes,Depends,3,150,70,No,1,5,1.5,2,7,7,4,3.3,2,1,No,56,48,4,177
+Male,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,No,Yes,Morning,2,50,0,No,2,6,1,2,6,8,3.8,3.567,0,0,No,42,15,3,74
+Male,Summer,Right,Senior,College of Biological Sciences (CBS),U.S.,Yes,No,No,Morning,9,35,100,No,1,6,2,0,7,6,3.94,3.69,0,1,No,120,100,6,80
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,Yes,Depends,8,12,5,No,1,3,1,4,8,10,3.95,2.99,0,2,No,152,612,6,144
+Female,Spring,Right,Freshman,College of Biological Sciences (CBS),U.S.,Yes,Yes,No,Evening,0,60,200,No,2,3,3,2,7,9,3.8,NA,0,1,Yes,332,156,8,242
+Female,Summer,Left,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,No,Depends,3,80,50,No,3,5,0,2,8,7,4,3.85,0,0,No,66,34,3,83
+Male,Fall,Right,Freshman,College of Liberal Arts (CLA),International,No,No,No,Evening,0,8,0,No,1,6,0,1,7,9,3.6,NA,0,-1,No,40,28,7,70
+Female,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,No,Yes,Evening,3,350,2,No,4,4,2,4,7,9,3.7,NA,0,1,No,92,64,4,34
+Male,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,No,No,Morning,3,50,0,No,2,3,2.5,15,8,11,3.5,3.52,0,0,Yes,120,120,3,62
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Yes,Evening,2,30,10,No,3,2,1,4,9,9,3.7,3.9,0,-1,No,412,370,7,67
+Male,Winter,Right,Sophomore,Other,U.S.,Yes,Yes,No,Depends,3,50,0,No,2,6,0,3,6,8,2.5,3.5,20,0,No,10,10,6,250
+Male,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,No,Evening,0,21,0,No,1,3,2,24,7,9,3.35,NA,0,0,No,67,67,6,67
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),International,No,Other,No,Morning,1,5,0,No,2,3,1,0,8,9,3.8,3.9,0,0,No,40,30,6,82
+Female,Spring,Right,Senior,College of Biological Sciences (CBS),U.S.,Yes,Yes,Yes,Evening,3,0,20,Yes,1,6,2,0.5,7,7,3.94,3.56,0,0,No,90,40,4,94
+Male,Spring,Right,Junior,College of Liberal Arts (CLA),International,No,No,No,Evening,1,10.96,0,No,0.5,10,1,3,6,8,3.2,3.56,0,2,Yes,16,30,6,50
+Male,Fall,Left,Senior,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Depends,3,15,100,No,3,4,6,1,7,8,3.7,3.06,0,0,Yes,35,33,4,50
+Female,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,No,Yes,Evening,6,52,200,Yes,1,3,2,2,8,8,4,NA,1,0,No,63,58,4,44
+Male,Spring,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,No,Yes,Morning,6,45,0,No,3,6,1,1,6,9,4,3.8,0,0,No,64,20,6,67
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,No,Depends,1,0,150,No,0,6,1,4,6,9,3.87,2.7,0,-1,No,29.39,40.27,6,624
+Female,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,No,Yes,Depends,4,21,10,I am not sure,1,2.5,1,1,7,9,3.6,NA,0,-1,No,74,69,6,65
+Female,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,No,Depends,4,25,10,Yes,2,3,4,2,9,9,3.7,3.7,0,-1,No,20,20,4,342
+Female,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Depends,2,100,150,No,1.5,2,5,3,5,9,2.8,3.8,0,0,Yes,26,19,4,42
+Male,Fall,Right,Freshman,College of Science of Engineering (CSE),U.S.,Yes,No,Yes,Depends,6,30,5,No,1,5,4,3,7,5,3.92,NA,0,0,Yes,80,50,2,85
+Female,Summer,Right,Junior,Other,U.S.,Yes,Yes,No,Evening,5,115,0,No,2,5,7,9,5,6.5,3.8,3,3,1,No,42,36,6,36
+Male,Winter,Right,Junior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,No,Evening,3,20,0,No,1,3,0,2,9,9,3.17,3.4,0,1,No,76,47,8,70
+Female,Fall,Left,Junior,College of Biological Sciences (CBS),U.S.,No,No,Yes,Depends,2,40,0,No,10,6.5,0.5,1.5,6,8,3.9,2.95,1,1,Yes,90,75,6,62
+Female,Fall,Right,Junior,College of Liberal Arts (CLA),U.S.,No,Yes,No,Evening,7,60,0,No,1,2,3,3,6,9,3.9,2.9,0,0,No,113,102,5,56
+Female,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,No,Depends,3,120,5,No,0.75,2,0,1,7.5,8,3.99,4,0,0,No,474,463,7,80
